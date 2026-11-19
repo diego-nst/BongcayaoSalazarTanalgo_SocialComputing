@@ -225,3 +225,6 @@ games.csv
 
 # moi's temp notebook
 temp.ipynb
+
+# output of senti all in .csv form
+output_senti_all.csv
